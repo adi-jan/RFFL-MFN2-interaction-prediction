@@ -12,5 +12,7 @@ The pipeline includes three parts:
 - Part C involves visualizing the highest-ranked PDB file(rank_001) from Part B using interactive visualization software like [ChimeraX](https://www.cgl.ucsf.edu/chimerax/).
 
 Thank You
+
 Adithya Janardhanan
+
 [@adijan002](https://x.com/adithyaj002)
