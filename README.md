@@ -4,7 +4,7 @@ The pipeline I used in this paper is adopted from [McLean et al., 2024](https://
 
 The pipeline includes three parts:
 
-- [Part A](RFFL-MFN2-interaction-prediction/RFFL_MFN2_Part_A.ipynb)
+- [Part A](https://github.com/adi-jan/RFFL-MFN2-interaction-prediction/blob/main/RFFL_MFN2_Part_A.ipynb)
  outputs individual fasta files with _His-SUMO-MFN2_ and _GST-RFFL_ amino acid sequences separated by ":" Here, _GST-RFFL_ is the bait sequence, and _His-SUMO-MFN2_ is the candidate sequence.  
 
 - Part B uses [ColabFold_BATCH](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/batch/AlphaFold2_batch.ipynb) to perform AlphaFold2-based model prediction on the protein pair.
